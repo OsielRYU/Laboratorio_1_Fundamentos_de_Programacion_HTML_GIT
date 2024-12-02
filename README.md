@@ -1,2 +1,2 @@
-# Laboratorio_Fundamentos_de_Programacion_HTML
+# Laboratorio_1_Fundamentos_de_Programacion_HTML_GIT
 lab1
